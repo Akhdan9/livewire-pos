@@ -13,7 +13,7 @@ class Product extends Model
     /**
      * fillable
      */
-    protected $fillable = ['name', 'slug', 'category_id', 'image', 'quantity', 'price'];
+    protected $fillable = ['name', 'slug', 'category_id', 'image', 'price', 'qty'];
 
     /**
      * accessor image product
