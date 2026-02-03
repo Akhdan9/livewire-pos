@@ -10,4 +10,4 @@
             <x-card title="Dashboard" />
         </div>
     </div>
-</x-app-layout>
+</x-app-layout
